@@ -1,4 +1,4 @@
-#Enhancing Healthcare Transparency: Predicting Disease with Explainable AI
+# Enhancing Healthcare Transparency: Predicting Disease with Explainable AI
 
 ## Overview
 This project aims to predict potential diseases based on blood report data using machine learning algorithms. By analyzing various health indicators, the model can determine if a patient may have conditions like anemia, diabetes, or if they are generally healthy. 
